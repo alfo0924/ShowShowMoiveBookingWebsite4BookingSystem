@@ -160,16 +160,25 @@ select, button {
     background: rgba(255, 255, 255, 0.66);
 
 }
-/*.navbar a:hover*/
-/*{*/
-/*    color: #000000;*/
-/*    cursor: pointer;*/
-/*    text-shadow: 5px 2px 5px #bdbdbd;*/
-/*}*/
+
 .offcanvas
 {
     background: rgba(255, 255, 255, 0.63);
 }
 
+#carouselExampleAutoplaying
+{
+    padding: 150px;
+}
 
+#web1Content,
+#web2Content,
+#web3Content {
+    padding: 150px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    width: 80%;
 
+}
