@@ -170,6 +170,9 @@ document.addEventListener("DOMContentLoaded", function() {
         updateSeats();
     });
 
+// 初始化座位选择
+    let selectedSeats = [];
+
 // 修改 updateSeats 函数以处理日期更改
     function updateSeats() {
         const seatsContainer = document.querySelector(".seats");
@@ -178,6 +181,15 @@ document.addEventListener("DOMContentLoaded", function() {
 
         // 重新生成座位表
         generateSeats();
+
+        // 保持已选座位不变
+        selectedSeats.forEach(seat => {
+            const seatElement = document.querySelector(`[data-seat="${seat}"]`);
+            if (seatElement) {
+                seatElement.classList.add('selected');
+            }
+        });
+
         randomSeatSelection();
     }
 
@@ -192,6 +204,9 @@ document.addEventListener("DOMContentLoaded", function() {
 // 设置日期输入框的最小值为今天，最大值为6月20日
     dateInput.min = today.toISOString().split('T')[0];
     dateInput.max = formattedEndDate;
+
+// 重新生成座位表
+    updateSeats();
 
 
 
