@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b211372a-aa5b-4e7d-a228-f2c9724793f9" name="Changes" comment="v2.2 commit n push" />
+    <list default="true" id="b211372a-aa5b-4e7d-a228-f2c9724793f9" name="Changes" comment="v2.3 commit n push">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,28 +15,28 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2hmP6RTINlEFg0oKvFc1v6o3OF5" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/user/WebstormProjects/ShowShowMoiveBookingWebsite4",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/WebstormProjects/ShowShowMoiveBookingWebsite4&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -50,7 +52,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718196103454</updated>
-      <workItem from="1718196104569" duration="3184000" />
+      <workItem from="1718196104569" duration="6575000" />
+      <workItem from="1719924564396" duration="611000" />
     </task>
     <task id="LOCAL-00001" summary="v2.2 commit n push">
       <option name="closed" value="true" />
@@ -60,7 +63,47 @@
       <option name="project" value="LOCAL" />
       <updated>1718202717028</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="v2.2 commit n push">
+      <option name="closed" value="true" />
+      <created>1718206269025</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718206269025</updated>
+    </task>
+    <task id="LOCAL-00003" summary="v2.2 commit n push">
+      <option name="closed" value="true" />
+      <created>1718207083567</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718207083567</updated>
+    </task>
+    <task id="LOCAL-00004" summary="v2.2 commit n push">
+      <option name="closed" value="true" />
+      <created>1718207677153</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718207677153</updated>
+    </task>
+    <task id="LOCAL-00005" summary="v2.2 commit n push">
+      <option name="closed" value="true" />
+      <created>1718208125600</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718208125600</updated>
+    </task>
+    <task id="LOCAL-00006" summary="v2.3 commit n push">
+      <option name="closed" value="true" />
+      <created>1718212890746</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718212890746</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -68,6 +111,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="v2.2 commit n push" />
-    <option name="LAST_COMMIT_MESSAGE" value="v2.2 commit n push" />
+    <MESSAGE value="v2.3 commit n push" />
+    <option name="LAST_COMMIT_MESSAGE" value="v2.3 commit n push" />
   </component>
 </project>
